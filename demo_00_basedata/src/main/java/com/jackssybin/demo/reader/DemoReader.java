@@ -1,6 +1,6 @@
-package com.jackssybin.demo02.reader;
+package com.jackssybin.demo.reader;
 
-import com.jackssybin.demo02.entity.DemoUser;
+import com.jackssybin.demo.entity.DemoUser;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.lang.Nullable;
 

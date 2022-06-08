@@ -1,4 +1,4 @@
-package com.jackssybin.demo02.entity;
+package com.jackssybin.demo.entity;
 
 public class DemoUser {
     private Long id;

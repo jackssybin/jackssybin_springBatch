@@ -1,8 +1,8 @@
 package com.jackssybin.demo02.config;
 
-import com.jackssybin.demo02.entity.DemoUser;
-import com.jackssybin.demo02.reader.DemoReader;
-import com.jackssybin.demo02.writer.DemoWriter;
+import com.jackssybin.demo.entity.DemoUser;
+import com.jackssybin.demo.reader.DemoReader;
+import com.jackssybin.demo.writer.DemoWriter;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
